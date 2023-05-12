@@ -59,14 +59,9 @@ button {
 #C {
     width: 255px;
 }
-#div,
-#mul,
-#equals,
-#sub,
-#add {
+.grey {
     background-color:rgb(207, 207, 207);
 }
-#C,
-#del {
+.red {
     background-color:rgb(223, 158, 202);
 }
