@@ -28,7 +28,6 @@ red.forEach(red => {
 const inputB = document.querySelectorAll('.input');
 inputB.forEach(inputB => {
     inputB.addEventListener('click', () => {
-        //let input = inputB.textContent;
         return inputButton(inputB.textContent);
     })
 })
