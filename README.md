@@ -1,2 +1,2 @@
 # Calculator
-https://daefron.github/Calculator
+https://daefron.github.io/Calculator
